@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/banking/static/css/main.6025c836.css",
+    "main.js": "/banking/static/js/main.7ac99ae8.js",
+    "index.html": "/banking/index.html",
+    "main.6025c836.css.map": "/banking/static/css/main.6025c836.css.map",
+    "main.7ac99ae8.js.map": "/banking/static/js/main.7ac99ae8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6025c836.css",
+    "static/js/main.7ac99ae8.js"
+  ]
+}
